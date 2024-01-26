@@ -1,0 +1,37 @@
+@media ( max-width: 1024px) {
+    header {
+        justify-content: space-between;
+        width: 1340px;
+    }
+    .start {
+        display: none;
+    }
+    .end {
+        display: none;
+    }
+    .burger {
+        display: block;
+    }
+    .blog1 {
+        width: 1340px;
+    }
+    .col2 {
+        left: 850px;
+    }
+    .container {
+        width: 1024px;
+    }
+    .a7 {
+        font-size: 86px;
+    }
+    .a8 {
+        font-size: 36px;
+    }
+    .a9 {
+        font-size: 24px;
+        padding: 400px 0px 0px 80px;
+    }
+    .title {
+        width: 1340px;
+    }
+}

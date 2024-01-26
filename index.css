@@ -1,0 +1,127 @@
+@media ( max-width: 1024px) {
+    header {
+        justify-content: space-between;
+        width: 1340px;
+    }
+    .start {
+        display: none;
+    }
+    .end {
+        display: none;
+    }
+    .burger {
+        display: block;
+    }
+    .blog1 {
+        width: 850px;
+    }
+    .col2 {
+        left: 850px;
+    }
+    .container {
+        width: 1024px;
+    }
+    .a7 {
+        font-size: 86px;
+    }
+    .a8 {
+        font-size: 36px;
+    }
+    .s2 {
+        width: 300px;
+        height: 500px;
+        align-items: center;
+        justify-content: center;
+        margin-top: 100px;
+    }
+    .blog2 {
+        width: 850px;
+        padding-left: 0px;
+    }
+    .blog2 {
+        width: 850px;
+        padding-left: 0px;
+    } .blog3 {
+        width: 1380px;
+    } .blog4 {
+        width: 1380px;
+    } .blog5 {
+        width: 1380px;
+    }
+    .blog6 {
+        width: 1380px;
+    }
+    .nice {
+        width: 1360px;
+    }
+}
+@media ( max-width: 580px) {
+    .container {
+        width: 950px;
+    }
+    header {
+        width: 950px;
+    }
+    .blog1 {
+        width: 500px;
+    }
+    .a7 {
+        font-size: 46px;
+    }
+    .a8 {
+        font-size: 24px;
+        padding: 0px 0px 0px 270px;
+    }
+    .col2 {
+        left: 500px;
+    }
+    .blog2 {
+        width: 950px;
+    }
+    .text1 {
+        padding-left: 130px;
+        padding-top: 150px;
+    }
+    .a10 {
+        font-size: 24px;
+    }
+    .a11 {
+        font-size: 18px;
+    }
+    .a12 {
+        font-size: 14px;
+    }
+    .s3 {
+        width: 550px;
+    }
+    .blog3 {
+        width: 1024px;
+    }
+    .blog4 {
+        width: 1024px;
+        height: 850px;
+    }
+    .text2 {
+        padding-left: 0px;
+    }
+    .blog5 {
+        width: 1024px;
+    }
+    .blog6 {
+        width: 1024px;
+    }
+    .nice {
+        width: 1024px;
+        height: 750px;
+    }
+    .a16 {
+        font-size: 46px;
+    }
+    .a15 {
+        font-size: 28px;
+    }
+    .a9 {
+        font-size: 24px;
+        padding: 200px 0px 0px 60px;
+    }
+}
